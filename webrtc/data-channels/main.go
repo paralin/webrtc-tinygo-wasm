@@ -7,7 +7,7 @@ import (
 
 	"github.com/vonas/webrtc-tinygo-wasm/webrtc/internal/signal"
 
-	"github.com/pion/webrtc/v3"
+	"github.com/pion/webrtc/v4"
 )
 
 func main() {
